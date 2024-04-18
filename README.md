@@ -1,4 +1,4 @@
-[![Header](./assets/github-header-image.png)](https://dallonjarman.com)
+[![Header](./assets/header-img.png)](https://dallonjarman.com)
 
 <h3 align="center">Student at Northern Arizona University studying Software Engineering and Cybersecurity</h3>
 
