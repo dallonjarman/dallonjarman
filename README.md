@@ -1,4 +1,6 @@
-[![Header](./assets/header-img.png)](https://dallonjarman.com)
+<p align="center">
+    <img src="./assets/github-header-image.png" alt="Centered Image">
+</p>
 
 <h3 align="center">Student at Northern Arizona University studying Software Engineering and Cybersecurity</h3>
 
