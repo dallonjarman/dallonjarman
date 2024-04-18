@@ -14,7 +14,6 @@
 
 - ⚡ Fun fact **I enjoy hiking, running, snow and water sports, and dirt biking.**
 
-<h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
 
